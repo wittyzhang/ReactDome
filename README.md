@@ -12,6 +12,6 @@
 
 **react-router-demo/ react-router-demo2**: 为react-router教程例子
 
-**react-hooks**: 为react-hooks教程例子
+**react-hooks-demo**: 为react-hooks教程例子
 
 
