@@ -15,3 +15,6 @@
 **react-hooks-demo**: 为react-hooks教程例子
 
 
+注： 使用git checkout --orphan 分支名  实现一个仓库管理多个项目
+
+
